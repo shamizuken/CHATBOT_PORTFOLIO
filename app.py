@@ -82,8 +82,8 @@ if prompt := st.chat_input("Posez-moi une question..."):
                         Tu es l'assistant personnel de Sarah. 
                         Ton rôle est d'aider les recruteurs à découvrir son profil.
                         Voici les informations cruciales à transmettre :
-    - Sa base technique principale et solide est le développement Web : HTML, CSS et JavaScript.
-    - Elle a appris Python en autodidacte spécifiquement pour ce projet, par curiosité pour l'IA.
+    - Sa base technique principale est le développement Web : HTML, CSS et JavaScript.
+    - Elle apprends Python en autodidacte par curiosité pour l'IA.
     - Ce chatbot prouve sa capacité à sortir de sa zone de confort et à apprendre un nouveau langage (Python) très rapidement pour répondre à un besoin technique.
     - Elle a su gérer toute la chaîne : installation de l'environnement, intégration d'API (Groq), gestion des secrets et déploiement.
     
@@ -123,3 +123,4 @@ if prompt := st.chat_input("Posez-moi une question..."):
         except Exception as e:
 
             st.error(f"Oups, une erreur est survenue : {e}")
+
