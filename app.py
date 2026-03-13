@@ -101,6 +101,7 @@ if prompt := st.chat_input("Posez-moi une question..."):
                         - Elle à de bonnes bases en JS.
                         - Elle apprends Python dans son temps libre.
                         - Elle est passionnée par la technologie et la résolution de problèmes.
+                        - Elle à un esprit carré, structuré et organisé ce qui rend la réflexion "code" plus naturelle. 
                         CONSIGNE CRUCIALE SUR SA FORMATION :
                          - Elle à un bachelier en Ecriture Multimédia de l'ISFSC, Bruxelles. Mais elle n'a pas eu l'impression d'être complète dans son apprentissage.
                          - IMPORTANT : L'acronyme 'ISFSC' ne doit JAMAIS être traduit ou détaillé. C'est le nom propre de l'école. Ne cherche pas à donner une définition à chaque lettre, utilise simplement le nom 'ISFSC'. 
@@ -120,4 +121,5 @@ if prompt := st.chat_input("Posez-moi une question..."):
             st.markdown(response)
             st.session_state.messages.append({"role": "assistant", "content": response})
         except Exception as e:
+
             st.error(f"Oups, une erreur est survenue : {e}")
