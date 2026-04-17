@@ -1,6 +1,6 @@
 [theme]
-primaryColor = "#10b20a"
-backgroundColor = "#000000"
-secondaryBackgroundColor = "#0c1248"
-textColor = "#FAFAFA"
+primaryColor = "#7d2ae8"  # Le violet de ton portfolio
+backgroundColor = "#0e1117"  # Fond sombre standard
+secondaryBackgroundColor = "#1c212b"  # Gris très sombre pour les bulles/sidebar
+textColor = "#ffffff"  # Texte blanc
 font = "sans serif"
