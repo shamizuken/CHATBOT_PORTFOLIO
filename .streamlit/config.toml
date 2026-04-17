@@ -1,6 +1,6 @@
 [theme]
-primaryColor = "#00FF00"  # Le vert pour les boutons et accents
-backgroundColor = "#0e1117"  # Le fond noir de l'app
-secondaryBackgroundColor = "#9b59b6"  # Le VIOLET pour la Sidebar et la zone de saisie
-textColor = "#00FF00"  # Force le texte en VERT (pour l'effet Tecna)
+primaryColor = "#00FF00"  
+backgroundColor = "#0e1117" 
+secondaryBackgroundColor = "#9b59b6" 
+textColor = "#00FF00"  
 font = "sans serif"
