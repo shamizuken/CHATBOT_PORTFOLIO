@@ -30,7 +30,7 @@ st.markdown("""
     """, unsafe_allow_html=True)
 
 # 1. Configuration de la page
-st.set_page_config(page_title="IA Portfolio - Sarah Hamri", page_icon="🔎")
+st.set_page_config(page_title="Chatbot Portfolio - Sarah Hamri", page_icon="🔎")
 
 # 2. Barre latérale
 with st.sidebar:
@@ -45,7 +45,7 @@ with st.sidebar:
     st.write("### Tech Stack")
     st.code("Python\nStreamlit\nGroq API\nLlama 3.1")
 
-st.title("💬 Mon assistant IA")
+st.title("💬 Mon assistant personnel")
 
 # 3. Sécurité de la clé API
 
