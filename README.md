@@ -2,7 +2,7 @@
 
 
 
-# 🔎 IA Portfolio Chatbot
+# 🔎 Chatbot pour portfolio
 
 Bienvenue sur le dépôt de mon assistant personnel intelligent ! Ce projet est un chatbot conçu pour aider les recruteurs à découvrir mon parcours, mes compétences et ma personnalité de manière interactive.
 
